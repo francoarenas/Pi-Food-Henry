@@ -1,0 +1,32 @@
+.recipe {    
+    
+    background-color: rgba(218, 231, 221, 0.3);
+    box-shadow: 3px 3px 5px 1px rgb(56, 138, 67);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.recipeImg {    
+     
+    background-color: #49ce54;
+    box-shadow: 3px 3px 5px 1px rgb(44, 112, 67);
+    border-radius: 6px;
+    width: auto;
+    height: auto; 
+}
+
+.recipeName {
+    
+    text-decoration: none;    
+    
+    color:rgb(6, 6, 75);
+    font-style: italic;
+    font-weight: 700;    
+    text-shadow: 6px 4px 5px rgba(0,0,0,0.43);  
+}
+
+.recipeName:hover {
+    overflow: visible;
+}
